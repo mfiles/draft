@@ -8,7 +8,7 @@
 
 .main-body > * {
   height: 90vh;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .main-header {
@@ -82,7 +82,6 @@ label {
 #dragMe {
   width: 10px;
   text-align: center;
-  justify-contents: center;
   align-items: center;
   vertical-align: middle;
   background-color: #002E5E;
