@@ -53,6 +53,7 @@ body {
   text-transform: uppercase; /* todo: remove? */
   cursor: pointer;
   width: 15vw;
+  max-width: 200px;
   text-align: center;
   overflow: hidden;
   white-space: nowrap;
@@ -80,6 +81,7 @@ body {
   position: absolute;
   /* z-index: 1; */
   width: 15vw;
+  max-width: 200px;
   border: 1px rgba(0, 26, 54, 0.85) solid;
   border-bottom-left-radius: 15px;  /* todo: remove? */
   border-bottom-right-radius: 15px; /* todo: remove? */
